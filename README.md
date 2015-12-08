@@ -102,5 +102,5 @@ ps. 3DOF Collaboration Work
 
 ---
 
-Mail : SiRyuA@develoid.com
-Blog : http://siryua.tistory.com
+* Mail : SiRyuA@develoid.com
+* Blog : http://siryua.tistory.com
