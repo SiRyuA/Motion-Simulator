@@ -36,7 +36,7 @@
 * v1 Test Driving : https://youtu.be/y17OO_TQ8M0
 
 ### Update Log
-#### Motion Simulator 2DOF v2 Update
+###### Motion Simulator 2DOF v2 Update
 - Fix Network Error
 - Fix Motion Error
 - Fix HMI Error
