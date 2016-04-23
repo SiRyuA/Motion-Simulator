@@ -7,7 +7,6 @@
 * NI LabVIEW
 * Ethernet/IP
 * UDP
-* Simtools
 * Motion Simulation
 * Stewart Platform
 * Robot Platform
@@ -54,7 +53,6 @@
 * NI LabVIEW
 * RS232 Serial
 * UDP
-* Simtools
 * Motion Simulation
 * Stewart Platform
 * Robot Platform
@@ -88,7 +86,6 @@ ps. 6DOF MINI Collaboration Work
 * NI LabVIEW
 * RS232 Serial
 * UDP
-* Simtools
 * Motion Simulation
 * Stewart Platform
 * Robot Platform
