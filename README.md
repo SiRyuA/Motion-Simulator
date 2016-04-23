@@ -23,8 +23,6 @@
 
 ### How to Work
 1. Run Game
-1. Simtools - Data Parsing ( UDP )
-1. Simtools - Passing data with LabVIEW ( UDP )
 1. LabVIEW - Changed Data
 1. LabVIEW - Passing data with PLC ( Ethernet/IP )
 1. PLC - Passing data with Servo AMP ( Ethernet/IP )
@@ -72,8 +70,6 @@
 
 ### How to Work
 1. Run Game
-1. Simtools - Data Parsing ( UDP )
-1. Simtools - Passing data with LabVIEW ( UDP )
 1. LabVIEW - Changed Data
 1. LabVIEW - Passing data with Arduino ( Serial )
 1. Arduino - Linear Actuator Control ( Relay )
@@ -106,8 +102,6 @@ ps. 6DOF MINI Collaboration Work
 
 ### How to Work
 1. Run Game
-1. Simtools - Data Parsing ( UDP )
-1. Simtools - Passing data with LabVIEW ( UDP )
 1. LabVIEW - Changed Data
 1. LabVIEW - Passing data with Arduino ( Serial )
 1. Arduino - Servo Motor Control ( PWM )
