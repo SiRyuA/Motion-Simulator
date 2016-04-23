@@ -17,7 +17,7 @@
 * Compact Logix Controller - 1769-L18ERM BB1B
 * Kinetix 350
 * MPAR A200F-A4A
-* AB PLC 
+* PanelView 6 PLUS 700
 * Logitech G27 Racing Wheel
 * And More..
 
@@ -31,7 +31,21 @@
 1. Servo Motor Work
 
 ### Work Video
-* preparing
+* v2 Test Moving : https://youtu.be/88D_c65IruI
+* v2 Test Driving : https://youtu.be/kl0lym0SV6Y
+* v1 Test Driving : https://youtu.be/y17OO_TQ8M0
+
+### Update Log
+* Motion Simulator 2DOF v2 Update
+- Fix Network Error
+- Fix Motion Error
+- Fix HMI Error
+- Update Motor Motion 
+- Update LED Show 
+- Update LabView
+- Update PLC
+- Downgrade HMI Firmware
+- Add LabView exe file
 
 ---
 
@@ -67,7 +81,7 @@
 ps. 6DOF MINI Collaboration Work
 
 ### Work Video
-* preparing
+* v1 Test Driving : https://youtu.be/-Q6BgGb6RNk
 
 ---
 
